@@ -72,7 +72,7 @@
 
 ### 🌟 **Thank You!**
 
-**"New to development, excited to learn and grow. I’m exploring and contributing to projects, eager to collaborate and grow in the <br> open-source community. Feel free to connect or reach out if you'd like to collaborate or provide guidance!"**
+**"New to development, excited to learn and grow. I’m exploring and contributing to projects, eager to collaborate and grow in open-source community. Feel free to connect or reach out if you'd like to collaborate or provide guidance!"**
 
 
 </div>
