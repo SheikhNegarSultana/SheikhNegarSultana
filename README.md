@@ -56,7 +56,7 @@
 <div align="center">
   <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,tailwind,figma,html,css,py,html,css,vscode" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=react,js,tailwind,figma,html,css,py,vscode" alt="My Skills"/>
   </a>
 </div>
   <br>
