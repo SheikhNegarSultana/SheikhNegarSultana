@@ -10,7 +10,7 @@
 
 <br>
 
-<!-- Visitors 
+<!-- Visitors -->
 <div align="center">
   <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSheikhNegarSultana%2Fyour-repo-name&count_bg=%237D3C98&title_bg=%23FFFFFF00&icon=github.svg&icon_color=%23282048&title=Visitors&edge_flat=false&logo_bg=%23172347" width="40%" height="40%" />
@@ -31,11 +31,9 @@
 <div align="center">
   <table>
     <tr> 
-      
       <td> 
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheikhNegarSultana&layout=donut&icons=true&theme=github_dark" alt="Top Langs" style="max-width: 45%; height: auto;" />
       </td> 
-     
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=SheikhNegarSultana&show_icons=true&theme=github_dark" alt="Negar's GitHub Stats" style="max-width: 45%; height: auto;" />
       </td>
@@ -44,7 +42,7 @@
 </div>
 
 <br>
--->
+
 <!-- ToolKit -->
 <div align="center">
   <h2>
