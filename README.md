@@ -1,79 +1,101 @@
-![INTRO](https://i.ibb.co.com/F8sL6G6/Assalamualaikum-I-Am-Negar.png "INTRO")
-<br>
-<br>
-
 <div align="center">
-  <p>
-    I'm an <strong>aspiring Web Developer</strong> and <strong>Product Designer</strong> just starting my exciting journey into the world of <strong>code and creativity</strong>. My passion lies in learning the art of building <strong>beautiful, functional, and user-friendly websites</strong> while exploring the endless possibilities of design and development.
-  </p>
-</div>
+
+<img src="./assets/GitHub_Banner.svg" alt="Sheikh Negar Sultana, Web3 Developer and Software Engineer" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4A7BC8&center=true&width=620&lines=Software+Engineer+in+the+making;Learning+AI-powered+full-stack+development;Web3%2C+blockchain+security+and+research;Building+one+commit+at+a+time" alt="Typing intro" />
 
 <br>
 
-<!-- Visitors -->
-<div align="center">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSheikhNegarSultana%2Fyour-repo-name&count_bg=%237D3C98&title_bg=%23FFFFFF00&icon=github.svg&icon_color=%23282048&title=Visitors&edge_flat=false&logo_bg=%23172347" width="40%" height="40%" />
-  </a>
+<img src="https://komarev.com/ghpvc/?username=SheikhNegarSultana&label=Profile%20views&color=2f5597&style=flat" alt="Profile views" />
+
 </div>
 
+---
 
+- 👋 Hi, I’m **@SheikhNegarSultana**
+- 🎓 BSc in **Computer Science and Engineering** from Daffodil International University, from Dhaka, Bangladesh
+- 🖥️ I’m currently working on **React.js, TypeScript and Tailwind CSS** for frontend development.
+- 🗄️ Using **Node.js, Express.js, PostgreSQL and MariaDB** for the backend.
+- 🛠️ I’m currently learning **AI-powered full-stack development, Web3 and blockchain basics, cybersecurity and Flutter**.
+- 🔬 My research project **CellSeg-GNN-XAI** uses graph attention networks for explainable nucleus segmentation (Dice 0.727 on the PanNuke test split).
+- 👥 I am the Lead Software Engineer of a five-person team building **Shusshadu**, a food-recipe website.
+- 💬 Ask me about **Full-Stack (React, Node, Express, PostgreSQL), TypeScript, Python and deep-learning research**.
+- 🌱 Beyond code, I enjoy psychology, design, journaling, art, food and travel writing.
+- 🤝 Open to **remote software engineering roles, internships and research collaboration**.
+- 📝 Find me on [LinkedIn](https://www.linkedin.com/in/sheikh-negar-sultana)
+- 📫 Feel free to reach me out by [Email](mailto:sultanashashi.contact@gmail.com)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
 <br>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,bash&theme=light" alt="Languages: C, C++, Java, Python, JavaScript, TypeScript, Bash" />
 
-<div align="center">
-  <h2>
-    Skills And Expertise 
-  </h2>
-</div>
-
+**Frontend**
 <br>
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind&theme=light" alt="Frontend: HTML, CSS, React, Vite, Tailwind CSS" />
 
-<div align="center">
-  <table>
-    <tr> 
-      <td> 
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheikhNegarSultana&layout=donut&icons=true&theme=github_dark" alt="Top Langs" style="max-width: 45%; height: auto;" />
-      </td> 
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=SheikhNegarSultana&show_icons=true&theme=github_dark" alt="Negar's GitHub Stats" style="max-width: 45%; height: auto;" />
-      </td>
-    </tr>
-  </table>
-</div>
-
+**Backend and database**
 <br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres&theme=light" alt="Backend and database: Node.js, Express, PostgreSQL" />
+<img src="https://img.shields.io/badge/MariaDB-16264A?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" height="48" />
 
-<!-- ToolKit -->
-<div align="center">
-  <h2>
-    ToolKit 
-  </h2>
-</div>
+**Tools and OS**
 <br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu,arduino&theme=light" alt="Tools: Git, GitHub, VS Code, Linux, Ubuntu, Arduino" />
+
+**AI / ML (from my research projects):** Python deep learning, graph neural networks, explainability
+
+**Currently learning:** Web3 and blockchain basics, cybersecurity, Flutter, AI engineering tools
+
+---
+
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td rowspan="2" width="34%" valign="top">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheikhNegarSultana&layout=donut-vertical&bg_color=EAF2FB&title_color=16264A&text_color=2B3D63&border_color=B7D3F2&border_radius=14" alt="Top languages" />
+    </td>
+    <td colspan="2" width="66%" valign="top">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=SheikhNegarSultana&show_icons=true&bg_color=EAF2FB&title_color=16264A&text_color=2B3D63&icon_color=B8741F&border_color=B7D3F2&border_radius=14" alt="GitHub stats" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <img width="100%" src="https://streak-stats.demolab.com/?user=SheikhNegarSultana&background=EAF2FB&ring=2F5597&fire=E9B44C&currStreakNum=16264A&sideNums=16264A&currStreakLabel=B8741F&sideLabels=2F5597&dates=2B3D63&border=B7D3F2&border_radius=14" alt="Streak stats" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" valign="top">
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SheikhNegarSultana&bg_color=EAF2FB&color=2F5597&line=2F5597&point=E9B44C&area=true&area_color=B7D3F2&hide_border=true&border_radius=14" alt="Activity graph" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/SheikhNegarSultana/JolBondhu"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SheikhNegarSultana&repo=JolBondhu&bg_color=EAF2FB&title_color=2F5597&text_color=2B3D63&icon_color=B8741F&border_color=B7D3F2&border_radius=14" alt="JolBondhu" /></a>
+  <a href="https://github.com/SheikhNegarSultana/NexusBank"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SheikhNegarSultana&repo=NexusBank&bg_color=EAF2FB&title_color=2F5597&text_color=2B3D63&icon_color=B8741F&border_color=B7D3F2&border_radius=14" alt="NexusBank" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/SheikhNegarSultana/Fitness-Website-Homepage"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SheikhNegarSultana&repo=Fitness-Website-Homepage&bg_color=EAF2FB&title_color=2F5597&text_color=2B3D63&icon_color=B8741F&border_color=B7D3F2&border_radius=14" alt="Fitness-Website-Homepage" /></a>
+  <a href="https://github.com/SheikhNegarSultana/Shusshadu"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SheikhNegarSultana&repo=Shusshadu&bg_color=EAF2FB&title_color=2F5597&text_color=2B3D63&icon_color=B8741F&border_color=B7D3F2&border_radius=14" alt="Shusshadu" /></a>
+</p>
+
+---
 
 <div align="center">
-  <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,tailwind,figma,html,css,py,vscode" alt="My Skills"/>
-  </a>
-</div>
-  <br>
-  <img src="https://img.shields.io/badge/-DaisyUI-3A0B5B?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI" />
-  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</div>
 
- ---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2F5597?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheikh-negar-sultana)
+[![GitHub](https://img.shields.io/badge/GitHub-16264A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SheikhNegarSultana)
+[![Email](https://img.shields.io/badge/Email-E9B44C?style=for-the-badge&logo=gmail&logoColor=16264A)](mailto:sultanashashi.contact@gmail.com)
 
-
-<div align="center">
-
-### 🌟 **Thank You!**
-
-**"New to development, excited to learn and grow. I’m exploring and contributing to projects, eager to collaborate and grow in open-source community. Feel free to connect or reach out if you'd like to collaborate or provide guidance!"**
-
+Open to collaboration, feedback and good conversations about Web3 and research.
 
 </div>
-
-
-
