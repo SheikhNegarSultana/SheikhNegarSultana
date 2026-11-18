@@ -85,7 +85,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/SheikhNegarSultana/Fitness-Website-Homepage"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SheikhNegarSultana&repo=Fitness-Website-Homepage&bg_color=EAF2FB&title_color=2F5597&text_color=2B3D63&icon_color=B8741F&border_color=B7D3F2&border_radius=14" alt="Fitness-Website-Homepage" /></a>
-  <a href="https://github.com/SheikhNegarSultana/Shusshadu"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SheikhNegarSultana&repo=Shusshadu&bg_color=EAF2FB&title_color=2F5597&text_color=2B3D63&icon_color=B8741F&border_color=B7D3F2&border_radius=14" alt="Shusshadu" /></a>
+  <a href="https://github.com/SheikhNegarSultana/ENGLISH_JANALA"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SheikhNegarSultana&repo=ENGLISH_JANALA&bg_color=EAF2FB&title_color=2F5597&text_color=2B3D63&icon_color=B8741F&border_color=B7D3F2&border_radius=14" alt="ENGLISH_JANALA" /></a>
 </p>
 
 ---
